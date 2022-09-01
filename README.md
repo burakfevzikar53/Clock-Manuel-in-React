@@ -1,3 +1,6 @@
+![clock](https://user-images.githubusercontent.com/49106046/188019077-09b1ff70-26c2-448e-8996-7a04dba2c67b.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
