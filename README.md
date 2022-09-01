@@ -1,4 +1,5 @@
 ![clock](https://user-images.githubusercontent.com/49106046/188019077-09b1ff70-26c2-448e-8996-7a04dba2c67b.PNG)
+![clock2](https://user-images.githubusercontent.com/49106046/188019568-76d43c51-0810-4a52-9931-b986ca3a5eca.PNG)
 
 
 # Getting Started with Create React App
